@@ -4,19 +4,13 @@
 			"path": "LabGuide"
 		},
 		{
-			"path": "A1-AccountGenerator"
+			"path": "AdGenerator"
 		},
 		{
-			"path": "A2-PhoneNumbers"
+			"path": "TriangleCalculator"
 		},
 		{
-			"path": "A3-DistanceCalculator"
-		},
-		{
-			"path": "A4-SphereCalculator"
-		},
-		{
-			"path": "A5-TriangleCalculator"
+			"path": "CodingJournal"
 		}
 	],
 	"settings": {
