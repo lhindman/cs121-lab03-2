@@ -1,6 +1,6 @@
 # Module 3 Lab Guide (part 2)
 
-## Lab Activity 2 - AdGenerator (Required)
+## Lab Activity 2 - AdGenerator
 ### Problem Description
 Write an application that prompts for details related to an service advertisement using a Scanner and storing the entered data into appropriate variables. Once the information has been successfully read from the user and stored, generate an advertisement using the standardized format show in the expected output below. It is helpful to think of this as two separate steps: input processing and output formatting. Your program should match the expected output below.  
 
@@ -42,7 +42,7 @@ Ask for Ernie C. Douglas
 5. Push the changes from your local repository to the github classroom repository.
 
 
-## Lab Activity 3 - TriangleCalculator (Required)
+## Lab Activity 3 - TriangleCalculator
 ### Problem Description
 Write an application that reads the lengths of the sides of a triangle from the user. Compute the area of the triangle using Heron's formula (below), in which s represents half of the perimeter of the triangle, and a, b, and c represent the lengths of the three sides. Print the area to three decimal places using a DecimalFormat object. Your program should match the expected output below.  
 
@@ -62,13 +62,3 @@ Area: 51.521
 3. Test the program the sample user input using the run link above the main method
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
 5. Push the changes from your local repository to the github classroom repository.
-
-## Coding Journal (Optional)
-Keep a journal of your activities as you work on this lab. Many of the best engineers that I have worked with professionally have kept some sort of engineering journal. I personally packed notebooks around with me for nearly 8 years before I began keeping my notes electronically.   
-
-Your journal can track ideas, bugs, cool links, code snippets, shell commands, rants, or simply a reflection on what worked well or not-so-well with this lab activity. I will not be grading the content of your journal, but I will expect at least two timestamped journal entries of at least a 75 to 150 words each added to the provided Journal.md file.  The purpose of this component is to help develop the habit of taking notes and creating documentation while you code. The more detail you provide the better as that will help you if you ever need to refer back to this project in the future.
-
-## Markdown Resources
-Markdown is a notation that is used to format text documents.  It is widely used in Software Development shops around the world, which is why we're asking you to use it in your lab documentation.  
-
-Github provides a guide for getting started:  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
