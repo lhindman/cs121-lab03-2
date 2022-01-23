@@ -1,7 +1,7 @@
 # Module 3 Lab Guide (part 2)
 
 ## Getting Started
-[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=beb4017a-4127-4632-8e84-ae24017ec772). 
+[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce75b364-88d3-4c72-980b-ae2600ca7dad)  
 
 ## Lab Activity 2 - AdGenerator
 ### Problem Description
