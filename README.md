@@ -1,3 +1,4 @@
+![CS121 Banner](images/CS121-BANNER.svg)
 # Module 3 Lab Guide (part 2)
 
 ## Getting Started
