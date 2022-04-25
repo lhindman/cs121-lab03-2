@@ -2,6 +2,9 @@
 # Module 3 Lab Guide (part 2)
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce75b364-88d3-4c72-980b-ae2600ca7dad&start=0)  
 
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
+
 ## Lab Activity 2 - AdGenerator
 ### Problem Description
 Write an application that prompts for details related to an service advertisement using a Scanner and storing the entered data into appropriate variables. Once the information has been successfully read from the user and stored, generate an advertisement using the standardized format show in the expected output below. It is helpful to think of this as two separate steps: input processing and output formatting. Your program should match the expected output below.  
